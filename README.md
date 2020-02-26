@@ -7,14 +7,10 @@ SCHEDULER
 1. CRON
 
 MONITORING
-1.
-2.
-3.
+..........
 
 PROJECT TRACKING
-1.
-2.
-3.
+...........
 
 TEAM COMMUNICATION
 1. Mattermost : similar to slack.
