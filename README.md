@@ -5,7 +5,7 @@ List of opensource software and resource to open a tech startup without buying a
 
 ## SCHEDULER
   #### CRON
-   - runs 15 minutes after midnight everyday and published result to output.txt
+   - Example: runs 15 minutes after midnight everyday and publishes result to output.txt
    1. type "crontab -e" on terminal  
    2. write the below command to the file opened and save it 
         15 0  * * * ./file_to_run.sh >> output.txt
