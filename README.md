@@ -15,7 +15,7 @@ SCHEDULER
    
 TEAM COMMUNICATION
 1. Mattermost 
-   -Mattermost is online chat service with file sharing which is alternative to slack. It is open-source service and can be self-hosted. 
+   - Mattermost is online chat service with file sharing which is alternative to slack. It is open-source service and can be self-hosted. 
    https://mattermost.com/ 
 
 PROJECT TRACKING
