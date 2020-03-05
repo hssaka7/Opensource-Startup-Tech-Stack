@@ -15,11 +15,12 @@ SCHEDULER
    
 TEAM COMMUNICATION
 1. Mattermost 
-   Mattermost is online chat service with file sharing which is alternative to slack. It is open-source service and can be self-hosted. 
+   -Mattermost is online chat service with file sharing which is alternative to slack. It is open-source service and can be self-hosted. 
    https://mattermost.com/ 
 
 PROJECT TRACKING
-1. Open Project is a web based project management/tracking tool.It has a nice UI that supports project planning and scheduling visualization. It is the best open source tool available that supports agile product development methodologies. It also supports Bug tracking and Time tracking.
+1. Open Project 
+   - Open Project is a web based project management/tracking tool.It has a nice UI that supports project planning and scheduling visualization. It is the best open source tool available that supports agile product development methodologies. It also supports Bug tracking and Time tracking.
     https://www.openproject.org/
 
 MONITORING
