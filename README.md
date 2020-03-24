@@ -22,6 +22,9 @@ List of opensource software and resource to open a tech startup without buying a
   #### Open Project 
    - Open Project is a web based project management/tracking tool.It has a nice UI that supports project planning and scheduling visualization. It is the best open source tool available that supports agile product development methodologies. It also supports Bug tracking and Time tracking.
     https://www.openproject.org/
+    
+  #### Trello 
+  - Almost track everything with trello.
 
 ## MONITORING
 ..........
